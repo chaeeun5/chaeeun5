@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## 안녕하세요!! 저는 정채은입니다! 반가워요!
 <!--
 **chaeeun5/chaeeun5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
